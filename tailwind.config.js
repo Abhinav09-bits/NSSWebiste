@@ -5,7 +5,7 @@ module.exports = {
     extend: {
       colors: {
         "navy-blue": "#001f3f",
-        platinum: "#7ab8d1",
+        "platinum-blue": "#7ab8d1",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
