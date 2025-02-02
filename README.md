@@ -26,31 +26,15 @@ This is a single-page website for the National Service Scheme (NSS) NIT Hamirpur
    npm install
    ```
 
-4. Install additional dependencies:
-   ```
-   npm install react-router-dom react-icons
-   ```
-
 ### Running the Development Server
 
 To start the development server, run:
 
-\`\`\`
+```
 npm run dev
-\`\`\`
+```
 
-This will start the Vite development server. Open your browser and navigate to `http://localhost:5173` to view the website.
-
-### Building for Production
-
-To create a production build, run:
-
-\`\`\`
-npm run build
-\`\`\`
-
-This will generate optimized files in the `dist` directory, which you can then deploy to your hosting provider.
-
+This will start the Vite development server. Open your browser and navigate to `http://localhost:3000` to view the website.
 ## Project Structure
 
 - `src/`: Contains the source code for the React components and styles
